@@ -1,6 +1,6 @@
 # Needle: A decentralized social platform on Arweave
 
-Submission for Arweave Hacker House 2.0
+Submission for Arweave Hacker House 2.0!
 
 ## Features
 
